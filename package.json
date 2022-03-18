@@ -1,0 +1,42 @@
+{
+  "name": "van-gogh-paintings",
+  "author": "XadillaX <i@2333.moe>",
+  "displayName": "Vincent van Gogh Painting Themes",
+  "description": "Vincent Willem van Gogh Painting Themes.",
+  "version": "1.0.0",
+  "publisher": "XadillaX",
+  "engines": {
+    "vscode": "^1.14.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "vangogh.jpg",
+  "galleryBanner": {
+    "color": "#f1c22b",
+    "theme": "light"
+  },
+  "bugs": {
+    "url": "https://github.com/XadillaX/vscode-mir2-colorscheme/issues"
+  },
+  "homepage": "https://github.com/XadillaX/vscode-mir2-colorscheme#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/XadillaX/vscode-mir2-colorscheme.git"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Starry Night (Van Gogh)",
+        "uiTheme": "vs",
+        "path": "themes/starry-night.json"
+      },
+      {
+        "label": "Vase with Twelve Sunflowers (Van Gogh)",
+        "uiTheme": "vs",
+        "path": "themes/vase-with-twelve-sunflowers.json"
+      }
+    ]
+  },
+  "license": "MIT"
+}
