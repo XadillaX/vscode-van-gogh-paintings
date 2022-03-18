@@ -1,6 +1,6 @@
 # Vincent van Gogh Painting Color Themes for VSCode
 
-> More paintings to be updated.
+> [More paintings](https://zh.wikipedia.org/wiki/%E6%96%87%E6%A3%AE%E7%89%B9%C2%B7%E6%A2%B5%E9%AB%98) to be updated.
 
 | Name | Painting |
 |------|----------|
